@@ -6,6 +6,8 @@ it's more like clothes from trash can 🤣
 <img src="logs/intermediate_training_images/epoch45_iter80.png">
 
 ## Real Colthes Images
+<img src="logs/real_images.png">
+
 ### Image Acquisition
 
 Total **~3000** real clothes images are from various clothing brands' online shop or e-commerces such as ZARA, Lativ, REVOLVE, Beams ... and so on.
