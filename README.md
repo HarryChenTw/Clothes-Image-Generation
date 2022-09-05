@@ -1,9 +1,11 @@
 Clothes image generation using GAN(Generative Adversarial Network), to be more specific, DCGAN (Deep Convolutional Generative Adversarial Network).
 
-## Results
+## Result
 it's more like clothes from trash can 🤣
 
 <img src="logs/intermediate_training_images/epoch45_iter80.png">
+
+<br>
 
 ## Real Colthes Images
 <img src="logs/real_images.png">
@@ -23,12 +25,15 @@ It's worth noticing that we only use image with **white background** and **witho
 ### Image processing before entering GAN
 
 
+<br>
+
 ## Model Architecture
 
 ### Generator
 
 ### Discriminator
 
+<br>
 
 ## Reference
 - [Pytorch DCGAN tutorial](https://pytorch.org/tutorials/beginner/dcgan_faces_tutorial.html)
