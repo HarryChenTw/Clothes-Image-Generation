@@ -1,4 +1,4 @@
-Clothes image generation using GAN(Generative Adversarial Network), to be more specific, DCGAN (Deep Convolutional Generative Adversarial Network).
+#### Clothes image generation using GAN(Generative Adversarial Network), to be more specific, DCGAN (Deep Convolutional Generative Adversarial Network).
 
 ## Result
 it's more like clothes from trash can 🤣
