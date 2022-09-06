@@ -58,7 +58,15 @@ Follows ` reference 1 `
 
 ### Generator
 
+|overall with hyperparameters of each layer| output tensor size and params of each layer|
+|---|---|
+|<img width="745" alt="Screen Shot 2022-09-06 at 11 42 35 AM" src="https://user-images.githubusercontent.com/75982405/188542686-e8408e67-7bea-4461-b337-777ef07377d4.png">|<img width="483" alt="Screen Shot 2022-09-06 at 11 42 44 AM" src="https://user-images.githubusercontent.com/75982405/188542696-eece4f0c-d74f-497a-a8b2-2143047f6287.png">|
+
 ### Discriminator
+
+|overall with hyperparameters of each layer| output tensor size and params of each layer|
+|---|---|
+|<img width="680" alt="Screen Shot 2022-09-06 at 11 42 54 AM" src="https://user-images.githubusercontent.com/75982405/188542810-1071bd9e-d60f-41f8-8c6a-59b7398b59c6.png">|<img width="484" alt="Screen Shot 2022-09-06 at 11 43 02 AM" src="https://user-images.githubusercontent.com/75982405/188542823-f9ff5e7f-1185-455d-840a-6e744280452b.png">|
 
 <br>
 
