@@ -52,7 +52,7 @@ To deal with this problem, we use a pre-process step to make sure object is at t
 |<img width="150" alt="Screen Shot 2022-09-06 at 11 16 04 AM" src="https://user-images.githubusercontent.com/75982405/188539651-80a136a4-d6e8-4e91-a046-d58b834c45a0.png">|<img width="150" alt="Screen Shot 2022-09-06 at 11 29 58 AM" src="https://user-images.githubusercontent.com/75982405/188541163-d2e37a85-6537-412a-b903-4168aa8c9c00.png">|
 
 ### Image processing before entering GAN
-target image size will be square `64*64`
+resize image to square `128*128`
 
 <br>
 
