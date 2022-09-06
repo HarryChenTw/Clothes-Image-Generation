@@ -10,7 +10,7 @@ it's more like clothes from trash can 🤣
 
 ## Real Colthes Images
 
-<img src="https://user-images.githubusercontent.com/75982405/188589890-6dc9e12c-2330-4e5c-80e0-10aecbc9f54d.png" width=500>
+<img src="logs/real_images.png" width=500>
 
 
 ### Image Acquisition
