@@ -57,19 +57,19 @@ target image size will be square `64*64`
 <br>
 
 ## Model Architecture
-Follows ` reference 1 `
+both Generator and Discriminator are modified based on ` reference 1 `
 
 ### Generator
 
 |overall with hyperparameters of each layer| output tensor size and params of each layer|
 |---|---|
-|<img width="745" alt="Screen Shot 2022-09-06 at 11 42 35 AM" src="https://user-images.githubusercontent.com/75982405/188542686-e8408e67-7bea-4461-b337-777ef07377d4.png">|<img width="483" alt="Screen Shot 2022-09-06 at 11 42 44 AM" src="https://user-images.githubusercontent.com/75982405/188542696-eece4f0c-d74f-497a-a8b2-2143047f6287.png">|
+|<img width="688" alt="Screen Shot 2022-09-06 at 4 58 48 PM" src="https://user-images.githubusercontent.com/75982405/188593994-8f006dc5-b49c-44e2-9ddb-20a45aef8a0c.png">|<img width="441" alt="Screen Shot 2022-09-06 at 4 58 56 PM" src="https://user-images.githubusercontent.com/75982405/188594030-861d043b-0f20-411c-b8a2-d29bb54be672.png">|
 
 ### Discriminator
 
 |overall with hyperparameters of each layer| output tensor size and params of each layer|
 |---|---|
-|<img width="680" alt="Screen Shot 2022-09-06 at 11 42 54 AM" src="https://user-images.githubusercontent.com/75982405/188542810-1071bd9e-d60f-41f8-8c6a-59b7398b59c6.png">|<img width="484" alt="Screen Shot 2022-09-06 at 11 43 02 AM" src="https://user-images.githubusercontent.com/75982405/188542823-f9ff5e7f-1185-455d-840a-6e744280452b.png">|
+|<img width="633" alt="Screen Shot 2022-09-06 at 4 59 02 PM" src="https://user-images.githubusercontent.com/75982405/188594076-293f5d0c-98ec-4d97-add6-4494ec9bab72.png">|<img width="444" alt="Screen Shot 2022-09-06 at 4 59 10 PM" src="https://user-images.githubusercontent.com/75982405/188594253-bb2e0d65-984f-4be5-a27a-1c6ab7867fc2.png">|
 
 <br>
 
