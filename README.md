@@ -36,7 +36,7 @@ There exist some problem in the collected image
     <img width="150" alt="Screen Shot 2022-09-06 at 11 14 54 AM" src="https://user-images.githubusercontent.com/75982405/188539552-01a63db2-bfe2-411f-a9de-e45c56fa59ac.png">
     <img width="150" alt="Screen Shot 2022-09-06 at 11 16 04 AM" src="https://user-images.githubusercontent.com/75982405/188539651-80a136a4-d6e8-4e91-a046-d58b834c45a0.png">
     
-To deal with this problem, we use a pre-process step to make sure object is at the center and the size of white padding is the same:
+To deal with these problem, we use a pre-process step to make sure object is at the center and the size of white padding is the same:
 
 1. turn image into grey scale and remove white background (250 - 255)
 2. find object's contour
