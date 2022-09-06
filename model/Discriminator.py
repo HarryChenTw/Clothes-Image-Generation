@@ -72,6 +72,15 @@ class Discriminator(nn.Module):
                 bachnorm=True
             ),
 
+            self.convBlock(
+                in_channels = 512,
+                out_channels = 512, 
+                kernel_size = 4,
+                stride = 2,
+                padding = 1, 
+                bachnorm=True
+            ),
+
             nn.Conv2d(
                 in_channels = 512,
                 out_channels = 1, 

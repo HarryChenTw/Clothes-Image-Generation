@@ -60,8 +60,16 @@ class Generator(nn.Module):
                 padding = 1
             ),
 
+            self.convTransBlock(
+                in_channels = 64,
+                out_channels = 32,
+                kernel_size = 4,
+                stride = 2,
+                padding = 1
+            ),
+
             nn.ConvTranspose2d(
-                in_channels = self.image_size, 
+                in_channels = 32, 
                 out_channels = self.image_channel, 
                 kernel_size = 4, 
                 stride = 2,
