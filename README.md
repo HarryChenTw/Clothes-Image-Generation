@@ -39,7 +39,8 @@ To deal with this problem, we use a pre-process step to make sure object is at t
 2. find object's contour
 3. crop image with the border of contour
 4. extend the border to make sure every side is 1.2 * (max border side) -> this can make image square
-( step 1-3 is from [reference 3] )
+
+( step 1-3 is from ` reference 3 ` )
 
 |before|after|
 |------|-----|
@@ -53,6 +54,7 @@ target image size will be square `64*64`
 <br>
 
 ## Model Architecture
+Follows ` reference 1 `
 
 ### Generator
 
