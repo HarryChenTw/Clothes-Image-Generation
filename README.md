@@ -3,12 +3,15 @@
 ## Result
 it's more like clothes from trash can 🤣
 
-<img src="logs/intermediate_training_images/epoch45_iter80.png">
+<img src="https://user-images.githubusercontent.com/75982405/188589845-64e63d41-f882-4bd8-b288-0e3b76de72ac.png" width=500>
+
 
 <br>
 
 ## Real Colthes Images
-<img src="logs/real_images.png">
+
+<img src="https://user-images.githubusercontent.com/75982405/188589890-6dc9e12c-2330-4e5c-80e0-10aecbc9f54d.png" width=500>
+
 
 ### Image Acquisition
 
