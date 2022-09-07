@@ -69,9 +69,10 @@ both Generator and Discriminator are modified based on ` reference 1 `
 
 |overall with hyperparameters of each layer| output tensor size and params of each layer|
 |---|---|
-|<img width="633" alt="Screen Shot 2022-09-06 at 4 59 02 PM" src="https://user-images.githubusercontent.com/75982405/188594076-293f5d0c-98ec-4d97-add6-4494ec9bab72.png">|<img width="444" alt="Screen Shot 2022-09-06 at 4 59 10 PM" src="https://user-images.githubusercontent.com/75982405/188594253-bb2e0d65-984f-4be5-a27a-1c6ab7867fc2.png">|
+|<img width="633" alt="Screen Shot 2022-09-06 at 4 59 02 PM" src="https://user-images.githubusercontent.com/75982405/188594076-293f5d0c-98ec-4d97-add6-4494ec9bab72.png">|<img width="443" alt="Screen Shot 2022-09-07 at 6 31 11 PM" src="https://user-images.githubusercontent.com/75982405/188857056-3ba06370-67ef-4073-9c2f-a7f16693e3fa.png">|
 
 <br>
+
 
 ## Reference
 1. [Pytorch DCGAN tutorial](https://pytorch.org/tutorials/beginner/dcgan_faces_tutorial.html)
